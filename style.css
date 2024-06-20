@@ -9,7 +9,7 @@
   --fundo-links: rgba(255, 255, 255, 0.1);
   --fundo-links-mouse: rgba(255, 255, 255, 0.3);
   --borda-links: rgba(255, 255, 255, 0.5);
-  --botao: url(./lua.svg);
+  --botao: url(./assets/lua.svg);
 }
 .Claro {
   --fundo: white;
@@ -17,7 +17,7 @@
   --fundo-links: rgba(0, 0, 0, 0.1);
   --fundo-links-mouse: rgba(0, 0, 0, 0.3);
   --borda-links: rgba(0, 0, 0, 0.5);
-  --botao: url(./sol.svg);
+  --botao: url(./assets/sol.svg);
 }
 body {
   background: var(--fundo) no-repeat top center/cover;
